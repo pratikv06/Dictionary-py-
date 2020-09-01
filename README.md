@@ -3,6 +3,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Sample](#sample)
+* [Problem](#problem)
 
 ## General info
 Dictonary App with text-to-Speech and Speech-to-text
@@ -53,3 +54,7 @@ to
 ## Sample
 - Dictionary App  
 ![](sample.gif)
+
+## Problem
+1. While read other function stop working.
+2. Converting audio to text is done by google translator, So internet is required.
